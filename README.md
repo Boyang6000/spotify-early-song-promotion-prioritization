@@ -1,6 +1,6 @@
-# STAT 5243 Spotify Projects
+# Spotify: Content-Based Early Song Promotion Prioritization
 
-This repository collects two STAT 5243 projects about Spotify song popularity and early hit prediction.
+This repository collects two connected Spotify song-popularity projects: a baseline hit-prediction project and an expanded early promotion prioritization framework.
 
 ## Repository Structure
 

@@ -13,10 +13,6 @@ This repository collects two connected Spotify song-popularity projects: a basel
 - `reports/project1/`: Project I presentation PDF.
 - `reports/project2/`: Project II presentation PDF.
 
-## Final Report
-
-[STAT5243_Final_Project.pdf](final-report/STAT5243_Final_Project.pdf)
-
 ## Projects
 
 ### Project I: Spotify Song Popularity Analysis and Hit Prediction
@@ -34,6 +30,10 @@ Project II extends the baseline into a business-oriented ranking framework for e
 The notebook adds engineered content features, title-level NLP features, PCA audio components, KMeans clusters, Last.fm external artist signals, and supplementary artist-prior benchmarks. The strongest deployable model in the final comparison is the Content + NLP + Last.fm Random Forest model, which improves both statistical performance and top-decile hit capture.
 
 Read more: [docs/project2.md](docs/project2.md)
+
+## Final Report
+
+[STAT5243_Final_Project.pdf](final-report/STAT5243_Final_Project.pdf)
 
 ## Reproducibility Notes
 

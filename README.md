@@ -6,6 +6,7 @@ This repository collects two STAT 5243 projects about Spotify song popularity an
 
 - `notebooks/project1_spotify_hit_prediction.ipynb`: Project I code for Spotify chart data collection and baseline hit-prediction preparation.
 - `notebooks/project2_content_based_promotion.ipynb`: Project II notebook for content-based early song promotion prioritization.
+- `data/dataset.csv`: Spotify track-level dataset moved from the original dataset-only repository.
 - `docs/project1.md`: Summary of Project I.
 - `docs/project2.md`: Summary of Project II.
 - `reports/project1/`: Project I presentation PDF.
@@ -40,4 +41,3 @@ LASTFM_API_KEY=your_lastfm_api_key
 ```
 
 The Project II notebook expects the Spotify dataset and, for the full Last.fm workflow, a cached Last.fm artist feature file. Some paths in the original notebooks were written for Google Colab and may need to be adjusted for a local environment.
-

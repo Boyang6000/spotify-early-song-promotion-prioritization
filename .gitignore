@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/
+cache/
+lastfm_artist_cache.csv
+
